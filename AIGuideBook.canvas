@@ -1,10 +1,13 @@
 {
 	"nodes":[
-		{"id":"2a7756bfd71fee91","x":420,"y":-460,"width":120,"height":60,"color":"5","type":"text","text":"**Brage**"},
+		{"id":"2a7756bfd71fee91","type":"text","text":"**Brage**","x":420,"y":-460,"width":120,"height":60,"color":"5"},
 		{"id":"5e8a7068a1576c98","type":"text","text":"**Alan**","x":740,"y":-460,"width":120,"height":60,"color":"2"},
 		{"id":"95fbde4b3669a918","type":"text","text":"**Petter**","x":260,"y":-460,"width":120,"height":60,"color":"6"},
 		{"id":"25c81997b4688a52","type":"text","text":"**Oskar**","x":580,"y":-460,"width":120,"height":60,"color":"4"},
-		{"id":"83f321365b91a488","x":-340,"y":-260,"width":400,"height":452,"type":"file","file":"Prosjekt.md"}
+		{"id":"83f321365b91a488","type":"file","file":"Prosjekt.md","x":-340,"y":-260,"width":400,"height":452},
+		{"id":"c34a34cc98431d20","x":-292,"y":-460,"width":305,"height":60,"type":"text","text":"https://study-ai-clear.lovable.app"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"a20628ee7af7c669","fromNode":"83f321365b91a488","fromSide":"top","toNode":"c34a34cc98431d20","toSide":"bottom"}
+	]
 }
