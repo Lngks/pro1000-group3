@@ -4,24 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4caba14a8630f469",
+        "id": "4874da8215a3bde8",
         "type": "tabs",
         "children": [
           {
-            "id": "c3ebd8a731c8c876",
+            "id": "3c0de5bd51546a9e",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "AIGuideBook.canvas",
-                "viewState": {
-                  "x": 217.21999999999983,
-                  "y": -134,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "AIGuideBook"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -97,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AIGuideBook.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for AIGuideBook"
+              "title": "Backlinks"
             }
           },
           {
@@ -116,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AIGuideBook.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from AIGuideBook"
+              "title": "Outgoing links"
             }
           },
           {
@@ -159,13 +150,22 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AIGuideBook.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of AIGuideBook"
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "ce8b2cda1db9a17e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ]
@@ -183,12 +183,15 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-kanban:Create new board": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "c3ebd8a731c8c876",
+  "active": "3c0de5bd51546a9e",
   "lastOpenFiles": [
-    "Prosjekt.md",
-    "AIGuideBook.canvas"
+    "AIGuideBook.canvas",
+    "Prosjekt.md"
   ]
 }
